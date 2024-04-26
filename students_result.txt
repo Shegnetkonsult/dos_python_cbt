@@ -1,0 +1,30 @@
+01
+NB/CS/1111
+SOLA JONES
+11
+30
+02
+NB/CS/2222
+SADE ADU
+5
+30
+02
+3306
+Pius Adil
+12
+30
+21
+f100
+segun dafe
+7
+30
+033
+NB/T/2022
+SADIN KAKIN
+29
+30
+01
+032036
+Shegun Joseph
+6
+30
